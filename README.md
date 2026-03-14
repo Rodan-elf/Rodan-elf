@@ -1,8 +1,4 @@
-# Hi, I'm Rodan
-
-Cybersecurity student with a background in digital marketing, social media and e-commerce.
-
----
+![banner](banner.svg)
 
 ## Labs
 
