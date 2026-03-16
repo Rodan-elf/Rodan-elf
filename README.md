@@ -6,6 +6,7 @@ Hands-on security exercises. Each lab documents an attack scenario, my methodolo
 
 | Lab | Topic | Description |
 |---|---|---|
+| [lab-baselining](https://github.com/Rodan-elf/lab-baselining) | Threat Detection | Osquery analysis across 50 workstations to identify anomalous artifacts |
 | [lab-spear-phishing-campaign](https://github.com/Rodan-elf/lab-spear-phishing-campaign) | Social Engineering | Long-con reverse phishing campaign against a fictional e-commerce company |
 | [lab-sql-incident-investigation](https://github.com/Rodan-elf/lab-sql-incident-investigation) | Threat Detection | SQL-based investigation of unauthorized login attempts |
 
