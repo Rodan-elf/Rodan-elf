@@ -6,7 +6,7 @@ Hands-on security exercises. Each lab documents an attack scenario, my methodolo
 
 | Lab | Topic | Description |
 |---|---|---|
-| [lab-mitre-cobalt-kitty](https://github.com/Rodan-elf/lab-MITRE-ATTCK-Mapping) | Threat Intelligence | ATT&CK Navigator mapping of Operation Cobalt Kitty > OceanLotus APT technique identification |
+| [lab-MITRE-ATTCK-mapping](https://github.com/Rodan-elf/lab-MITRE-ATTCK-Mapping) | Threat Intelligence | ATT&CK Navigator mapping of Operation Cobalt Kitty > OceanLotus APT technique identification |
 | [lab-home-network-hardening](https://github.com/Rodan-elf/lab-home-network-hardening) | Network Security | Real-world hardening of a home network > segmentation, credential hardening, WPA3 and firewall policy |
 | [lab-baselining](https://github.com/Rodan-elf/lab-baselining) | Threat Detection | Osquery analysis across 50 workstations to identify anomalous artifacts |
 | [lab-spear-phishing-campaign](https://github.com/Rodan-elf/lab-spear-phishing-campaign) | Social Engineering | Long-con reverse phishing campaign against a fictional e-commerce company |
