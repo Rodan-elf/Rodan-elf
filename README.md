@@ -1,4 +1,4 @@
-![banner](banner.svg)
+![banner](bannerv2.svg)
 
 ## macOS IDS - RODAN SENTINEL
  
