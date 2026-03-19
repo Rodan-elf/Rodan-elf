@@ -1,5 +1,25 @@
 ![banner](banner.svg)
 
+## macOS IDS - RODAN SENTINEL
+ 
+An autonomous, zero maintenance macOS IDS built entirely with free and open source tools.  
+One command. Four tools deployed. Silent protection 24/7.
+ 
+```bash
+curl -fsSL https://raw.githubusercontent.com/Rodan-elf/rodan-sentinel/main/setup.sh | bash
+```
+ 
+| Tool | Watches |
+|---|---|
+| LuLu | Every outbound network connection |
+| BlockBlock | Every persistence attempt (LaunchAgents, login items) |
+| OverSight | Camera & microphone activation |
+| Malwarebytes | Malware, adware & ransomware |
+ 
+→ **[View the project](https://github.com/Rodan-elf/rodan-sentinel)**
+  
+---
+
 ## Labs
 
 Hands-on security exercises. Each lab documents an attack scenario, my methodology, and defensive countermeasures.
