@@ -26,6 +26,7 @@ Hands-on security exercises. Each lab documents an attack scenario, my methodolo
 
 | Lab | Topic | Description |
 |---|---|---|
+| [lab-linux-backdoor-investigation](https://github.com/Rodan-elf/lab-linux-backdoor-investigation) | Incident Response | Compromised Linux system investigation > reverse shells, credential theft, cron persistence and login backdoors |
 | [lab-Splunk-Custom-App](https://github.com/Rodan-elf/lab-Splunk-Custom-App) | SIEM / Log Management | Custom Splunk app built from scratch > data parsing, field extraction, and multi-sourcetype ingestion |
 | [lab-MITRE-ATTCK-mapping](https://github.com/Rodan-elf/lab-MITRE-ATTCK-Mapping) | Threat Intelligence | ATT&CK Navigator mapping of Operation Cobalt Kitty > OceanLotus APT technique identification |
 | [lab-home-network-hardening](https://github.com/Rodan-elf/lab-home-network-hardening) | Network Security | Real-world hardening of a home network > segmentation, credential hardening, WPA3 and firewall policy |
