@@ -31,6 +31,7 @@ Hands-on security exercises. Each lab documents an attack scenario, my methodolo
 | [lab-baselining](https://github.com/Rodan-elf/lab-baselining) | Threat Detection | Osquery analysis across 50 workstations to identify anomalous artifacts |
 | [lab-spear-phishing-campaign](https://github.com/Rodan-elf/lab-spear-phishing-campaign) | Social Engineering | Long-con reverse phishing campaign against a fictional e-commerce company |
 | [lab-sql-incident-investigation](https://github.com/Rodan-elf/lab-sql-incident-investigation) | Threat Detection | SQL-based investigation of unauthorized login attempts |
+| [lab-Splunk-Custom-App](https://github.com/Rodan-elf/lab-Splunk-Custom-App) | SIEM / Log Management | Custom Splunk app built from scratch > data parsing, field extraction, and multi-sourcetype ingestion |
 
 ---
 
